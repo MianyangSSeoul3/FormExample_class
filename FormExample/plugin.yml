@@ -1,0 +1,8 @@
+---
+name: FormExample
+author: jjun18
+main: jjun18\FormExample\Main
+version: 1.0.0
+api:
+  - 3.15.0
+load: STARTUP
